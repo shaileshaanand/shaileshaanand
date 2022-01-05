@@ -49,7 +49,7 @@
 
 ![Shailesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaileshaanand&count_private=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shaileshaanand)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shaileshaanand&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=radical&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
