@@ -45,11 +45,12 @@
 
 ### **Stats**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaileshaanand&theme=dark)]()
+|<img src="https://github-readme-stats.vercel.app/api?username=shaileshaanand&hide_border=true&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaileshaanand&theme=dark&hide_border=true"/>|
+|---|---|
 
-![Shailesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaileshaanand&count_private=true&theme=radical)
+[![Shailesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shaileshaanand&custom_title=Shailesh%27s%20Activity%20Graph&hide_border=true&theme=github)](https://github.com/shaileshaanand/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shaileshaanand&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shaileshaanand&theme=radical&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=radical&hide=glsl)](https://github.com/anuraghazra/github-readme-stats)
