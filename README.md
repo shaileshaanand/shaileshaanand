@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height=35>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height=35>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height=35>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" height=35>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height=35>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height=35>
 <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" height=35>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height=35>
