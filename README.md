@@ -6,8 +6,9 @@
 
 ### **I love ❤️**
 
--   TypeScript
+-   NodeJS
 -   ReactJS
+-   TypeScript
 -   TailwindCSS
 -   Django & Django Rest Framework
 
